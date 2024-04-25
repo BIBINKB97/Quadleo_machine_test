@@ -1,18 +1,17 @@
 import 'package:flutter/material.dart';
 
-// custom colors
+    // custom colors
 
 
-    const kwhite = Colors.white;
-    const kblack = Colors  .black;
-     const kgreen = Colors  .green;
+    const kwhite = Color.fromARGB(255, 255, 255, 255);
+    const kblack = Colors.black;
+    const kgreen = Colors.green;
+    const kred = Colors.red;
+    const kyellow = Colors.yellow;
     const kgrey = Color.fromRGBO(158, 158, 158, 1);
-    const kred = Color.fromARGB(255, 255, 40, 40);
-    const kblue = Colors.blue;
     const kLightSkyblue = Color.fromARGB(255, 228, 238, 240);
     const kdeepblue = Color.fromARGB(255, 14, 27, 82);
-    const kblack54 = Colors .black54;
-    const kSkyblue = Color.fromARGB(255, 91, 202, 253);
+    const kdarkblue = Color.fromARGB(255, 20, 53, 197);
     const kAshgrey = Color.fromARGB(255, 240, 240, 240);
 
 
@@ -24,7 +23,7 @@ import 'package:flutter/material.dart';
     const kWidth30 = SizedBox(width: 30,);
     const kHeight5 = SizedBox(height: 5,);
     const kHeight10 = SizedBox(height: 10,);
-     const kHeight15 = SizedBox(height: 15,);
+    const kHeight15 = SizedBox(height: 15,);
     const kHeight20 = SizedBox(height: 20,);
     const kHeight30 = SizedBox(height: 30,);
     const kHeight40 = SizedBox(height: 40,);
